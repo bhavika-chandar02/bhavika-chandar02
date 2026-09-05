@@ -1,9 +1,11 @@
 # Hi, I'm Bhavika 👋
 *A cybersecurity student who likes understanding how things work, and occasionally how to break them.*
 
+
 👩‍💻 About Me
 
 I enjoy exploring how software, networks, and security come together, and learning by building things along the way.
+
 
 🔍 What I'm Into
 
@@ -12,6 +14,7 @@ Software development
 Computer networks & systems
 Building projects and solving real-world problems
 Hackathons
+
 
 🛠️ Tech Stack
 
