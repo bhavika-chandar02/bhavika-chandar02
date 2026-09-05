@@ -2,7 +2,7 @@
 
 # Hi, I'm Bhavika 👋
 
-*A cybersecurity student who likes understanding how things work, and occasionally how to break them.*
+A cybersecurity student who likes understanding how things work, and occasionally how to break them.
 
 </div>
 
