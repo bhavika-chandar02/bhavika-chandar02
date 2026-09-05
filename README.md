@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bhavika 👋
+*A cybersecurity student who likes understanding how things work, and occasionally how to break them.*
 
-<!--
-**bhavika-chandar02/bhavika-chandar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+I enjoy exploring how software, networks, and security come together, and learning by building things along the way.
 
-Here are some ideas to get you started:
+🔍 What I'm Into
+Cybersecurity & network security
+Software development
+Computer networks & systems
+Building projects and solving real-world problems
+Hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Languages: Python, C, Java
+Technologies: GitHub, MySQL
+Currently Learning: MERN Stack
