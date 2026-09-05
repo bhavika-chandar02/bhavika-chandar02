@@ -12,6 +12,8 @@ A cybersecurity student who likes understanding how things work, and occasionall
 
 I enjoy exploring how software, networks, and security come together, and learning by building things along the way.
 
+---
+
 ### 🔍 What I'm Into
 
 * Cybersecurity & network security
