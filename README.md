@@ -32,7 +32,7 @@ I enjoy exploring how software, networks, and security come together, and learni
 
 ### 🌱 Currently
 
-* 🔐 Deepening my knowledge in cybersecurity & network protocols
-* 💻 Building hands-on projects in software development
-* 🚀 Learning the MERN stack
-* 💡 Preparing for upcoming hackathons
+* Deepening my knowledge in cybersecurity & network protocols
+* Building hands-on projects in software development
+* Learning the MERN stack
+* Preparing for upcoming hackathons
