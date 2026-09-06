@@ -7,7 +7,7 @@
 
 ### 💻 About Me
 
-I'm a cybersecurity student who likes exploring how software, networks, and security come together, and learning by building things along the way, and occasionally breaking them.
+I'm a cybersecurity student who likes exploring how software, networks, and security come together, and learning by building things along the way, and occasionally breaking them ;)
 
 ---
 
