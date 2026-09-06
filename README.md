@@ -2,15 +2,13 @@
 
 # Hi, I'm Bhavika 👋
 
-A cybersecurity student who likes understanding how things work, and occasionally how to break them.
-
 </div>
 
 ---
 
 ### 💻 About Me
 
-I enjoy exploring how software, networks, and security come together, and learning by building things along the way.
+I'm a cybersecurity student who likes exploring how software, networks, and security come together, and learning by building things along the way, and occasionally breaking them.
 
 ---
 
